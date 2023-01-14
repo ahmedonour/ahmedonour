@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Front-End Developer<br>I am freelancer <br>I looking to work in tech company <br>My Email : ahmedonour.49@gmail.com<br>My Sec Email : ahmedonour.2018@gmail.com
+I am Front-End Developer<br>I am freelancer <br>I am a highly motivated and driven individual who is always looking for new opportunities to learn and grow. I am a quick learner and have a strong desire to continuously improve my skills. I am also a very team-oriented person and enjoy working collaboratively with others. I am confident in my abilities and always work to produce the best possible results.<br>My Email : ahmedonour.49@gmail.com<br>My Sec Email : ahmedonour.2018@gmail.com
 
 
 ## 🌐 Socials:
