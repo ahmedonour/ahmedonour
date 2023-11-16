@@ -1,6 +1,39 @@
 # 💫 About Me:
-I am Front-End Developer<br>I am freelancer <br>I am a highly motivated and driven individual who is always looking for new opportunities to learn and grow. I am a quick learner and have a strong desire to continuously improve my skills. I am also a very team-oriented person and enjoy working collaboratively with others. I am confident in my abilities and always work to produce the best possible results.<br>My Email : ahmedonour.49@gmail.com<br>My Sec Email : ahmedonour.2018@gmail.com
+# Front-End Developer Portfolio
 
+## Introduction
+
+Hello, I'm a Front-End Developer and freelancer, always eager to explore new opportunities for learning and growth. I'm a quick learner with a strong motivation to enhance my skills continuously. I thrive in collaborative environments and am confident in my ability to deliver high-quality results.
+
+## Contact Information
+
+- **Email:** ahmedonour.49@gmail.com
+- **Secondary Email:** ahmedonour.2018@gmail.com
+- **Portfolio:** [ahmedsuliman.com](https://ahmedsuliman.com)
+
+## About Me
+
+I am highly motivated and driven, possessing a passion for creating intuitive and visually appealing user interfaces. My commitment to excellence and teamwork sets the foundation for successful projects.
+
+## Skills
+
+- Front-End Development
+- HTML5, CSS3, JavaScript
+- Responsive Web Design
+- UI/UX Design
+- Collaboration and Teamwork
+
+## Projects
+
+Feel free to explore some of my noteworthy projects in the [Projects](https://github.com/ahmedonour/ahmedonour/) section.
+
+## Contact
+
+For any inquiries or collaboration opportunities, please don't hesitate to reach out to me via email.
+
+Thank you for visiting!
+
+*Note: Replace "#" with the actual link to your projects section if applicable.*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-onour-a84b61244/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ahmedonour.49) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ahmed_onour) [![DEV](https://img.shields.io/badge/DEV-12100E?logo=dev&logoColor=white)](https://dev.to/https://dev.to/ahmed_onour) 
