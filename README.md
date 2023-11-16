@@ -33,8 +33,6 @@ For any inquiries or collaboration opportunities, please don't hesitate to reach
 
 Thank you for visiting!
 
-*Note: Replace "#" with the actual link to your projects section if applicable.*
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-onour-a84b61244/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ahmedonour.49) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ahmed_onour) [![DEV](https://img.shields.io/badge/DEV-12100E?logo=dev&logoColor=white)](https://dev.to/https://dev.to/ahmed_onour) 
 
